@@ -1,6 +1,6 @@
 ## E ai! 👋
 
-Sou a Anna Julia.
+Sou Anna Julia.
 
 Estudante de desenvolvimento de software na FATEC Atibaia.
 
